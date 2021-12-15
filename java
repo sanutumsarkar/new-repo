@@ -1,7 +1,7 @@
 // Your First Program
 
-class CloudKnowledge {
+class CloudKno {
     public static void main(String[] args) {
-        System.out.println("Cloud, Knowledge!"); 
+        System.out.println("Cloud, Kno!"); 
     }
 }
