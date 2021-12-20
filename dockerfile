@@ -9,4 +9,4 @@ RUN unzip speed.zip
 RUN cp -rvf markups-speed/* .
 RUN rm -rf _MACOSX markupds-speed speed.zip
 CMD  [“/usr/sbin/httpd”, “-D” "FOREGROUND"]
-EXPOSE 82
+EXPOSE 80
